@@ -1,6 +1,7 @@
-# TROMBOFILIA 
-El proyecto trata de la caracterizacion molecular de dos genes (factor V y SERPINC1), involucrados enla activacion e inhibicion de la cascada de coagulación
--  *FV* (variantes comunes)
--  *SERPINC1*(mutaciones raras)
-### Objetivo
-- Determinar si las mutaciones de *FV* y *SSERPINC1* estan relacionadas con la patogenicidad de la enfermedad.
+# SERPINC1
+Este gen codifica una proteína,la antitrombina III, miembro de lafamilia serpinas, siendo su función el inhibir las proteasas plasmatica. Esta proteina tiene como función inhibir la trombina, así como otras serina proteasas activadas del sistema de coagulación. Esta proteína incluye dos dominios funcionales:
+-  Extremo aminoterminal (dominio de unión a heparina)
+-  Extremo carboxiterminal (sitio reactivo)
+Se ha identificado varias mutaciones en este gen, de las cuales podrían ser la causa de deficiencia de antitrombina III, siendo un factor importante en el riesgo de desarrollar tromboembolia venosa
+ ### Objetivo
+- Determinar si las mutaciones de  *SSERPINC1* estan relacionadas con la patogenicidad del desarrollo de la trombosis.
