@@ -3,4 +3,4 @@ El proyecto trata de la caracterizacion molecular de dos genes (factor V y SERPI
 -  *FV* (variantes comunes)
 -  *SERPINC1*(mutaciones raras)
 ### Objetivo
-- Determinar si las mutacionesentan relacionadas con la patogenicidad de la enfermedad
+- Determinar si las mutaciones de *FV* y *SSERPINC1* estan relacionadas con la patogenicidad de la enfermedad.
