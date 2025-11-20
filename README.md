@@ -13,7 +13,7 @@ Sustituto de trombina no humana con baja interacción con el cofactor de heparin
   Encontrar un sustituto de trombina no humana con baja interacción con el cofactor de heparina II para el correcto uso del ensayo clínico de actividad de antitrombina.
   
 ### METODOLOGÍA
-Se trabajará con 10 especies.
+Se trabajará con 10 especies:
 •	Homo sapiens 
 •	Bos Taurus 
 •	Mus Musculus 
