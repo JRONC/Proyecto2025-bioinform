@@ -1,4 +1,4 @@
-       # TROMBINA NO HUMANA, UNA ALTERNATIVA PARA EL ENSAYO CLÍNICO DE ACTIVIDAD DE ANTITROMBINA
+# TROMBINA NO HUMANA, UNA ALTERNATIVA PARA EL ENSAYO CLÍNICO DE ACTIVIDAD DE ANTITROMBINA
 
 ### INTRODUCCION
 El ensayo de la actividad de antitrombina (AT), así como los ensayos de otros coagulantes naturales son importantes para la evaluación de la trombofilias hereditarias y adquiridas, que son usualmente utilizados en pacientes con tromboembolia venosa.
