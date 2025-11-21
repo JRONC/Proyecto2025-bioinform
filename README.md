@@ -14,15 +14,15 @@ Sustituto de trombina no humana con baja interacción con el cofactor de heparin
   
 ### METODOLOGÍA
 Se selecciono  10 especies del NCBI:
-Homo sapiens (NM_000506.5)
-Bos Taurus NM_173877.1
-Mus Musculus NM_010168.4
-Gallus gallus NM_204605.2
-Xenopus laevis NM_001091823.1
-Anolis carolinensis XM_003214595.4
-Taeniopygia guttata XM_002198777.7
-Danio rerio NM_213390.2
-Takifugu rubripes NM_001032692.1
-Canis lupus familiaris XM_038424479.1
+# Homo sapiens (NM_000506.5)
+# Bos Taurus NM_173877.1
+# Mus Musculus NM_010168.4
+# Gallus gallus NM_204605.2
+# Xenopus laevis NM_001091823.1
+# Anolis carolinensis XM_003214595.4
+# Taeniopygia guttata XM_002198777.7
+# Danio rerio NM_213390.2
+# Takifugu rubripes NM_001032692.1
+# Canis lupus familiaris XM_038424479.1
 
 
